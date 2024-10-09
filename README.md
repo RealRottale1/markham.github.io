@@ -1,3 +1,4 @@
+
 # markham.github.io
 markham.github.io
 
@@ -49,3 +50,25 @@ markham.github.io
 
  [Snake Game](https://www.google.com/search?q=snake+game&rlz=1C1GCEA_enUS1123US1123&oq=Snake+game&gs_lcrp=EgZjaHJvbWUqDQgAEAAYgwEYsQMYgAQyDQgAEAAYgwEYsQMYgAQyDQgBEAAYgwEYsQMYgAQyDQgCEAAYgwEYsQMYgAQyDQgDEC4YgwEYsQMYgAQyDQgEEAAYgwEYsQMYgAQyDQgFEAAYgwEYsQMYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg1MTU4ajBqN6gCB7ACAQ&sourceid=chrome&ie=UTF-8)
   - I picked snake game because similar to Slither.io it is easy to pick up but hard to master. I also enjoy all the extra features that are baked into the game.
+
+## My Mermaid Charts
+
+### How to use mermaid
+``` mermaid
+    flowchart TD;
+    A{Open VS code}-->B{Look up how to use mermaid};
+    A{Open VS code}-->C{Ask the teacher how to use mermaid};
+    B{Look up how to use mermaid}-->D{Struggle};
+    C{Ask the teacher how to use mermaid}-->D{Struggle};
+    D{Struggle}-->E{Finally learn how to use mermaid}; 
+```
+
+
+### Percentage of my tic tac toe game
+
+``` mermaid
+sankey-beta
+Total,JavaScript,50.2
+Total,HTML,32.4
+Total,CSS,17.4
+```
