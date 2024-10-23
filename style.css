@@ -1,0 +1,24 @@
+
+#main1 {
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+#main1 img {
+    border: 2.5px black solid;
+    border-radius: 5px;
+}
+
+#main1 p {
+    border: 2.5px black solid;
+    border-radius: 5px;
+}
+
+#main2 {
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+    justify-content: center;
+}
